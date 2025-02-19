@@ -15,6 +15,6 @@ I'm a **Python Backend Developer** and **QA Automation Engineer** with a passion
 - Writing **clean, testable, and scalable** code.  
 
 ### 📫 Let's Connect!  
-- LinkedIn: [YourProfile](#)  
-- Email: [your.email@example.com](mailto:your.email@example.com)  
-- GitHub Projects: [Pinned Repositories](#)  
+- LinkedIn: [morkvargix](https://www.linkedin.com/in/morkvargix/)  
+- Email: [keltullis43@gmail.com](mailto:keltullis43@gmail.com)  
+- GitHub Projects: [repo](https://github.com/MorkvargIX?tab=repositories)  
