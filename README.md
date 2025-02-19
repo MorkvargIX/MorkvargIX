@@ -8,6 +8,8 @@ I'm a **Python Backend Developer** and **QA Automation Engineer** with a passion
 - 🔹 **Automation & Testing**: Pytest, Selenium, Playwright, Allure  
 - 🔹 **Distributed & P2P Systems**: AsyncIO, WebSockets, gRPC  
 - 🔹 **DevOps & Cloud**: Docker, Kubernetes, CI/CD, AWS
+
+### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
